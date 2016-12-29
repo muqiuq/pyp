@@ -16,3 +16,5 @@ Originaly this repository was created as a gift for a very good friend of mine.
 
 ## Documentation
  - [Micropython](http://docs.micropython.org/en/latest/pyboard/)
+
+For more information visit the repository at https://github.com/muqiuq/pyp
